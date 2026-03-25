@@ -7,8 +7,11 @@ This portfolio showcases my practical QA skills through real sample projects.
 
 🔍 What's inside:
 📋 Manual Testing  → Test cases, bug reports & test plans
+
 🎭 Playwright with JS   → UI automation using JavaScript
+
 🎭 Playwright with TS   → UI & API automation using TypeScript  
+
 🔌 API Testing     → REST API collections via Postman
 
 💼 Tools & Tech:
@@ -18,5 +21,7 @@ JavaScript · TypeScript · Agile/Scrum · Git · CI/CD
 Feel free to explore each repo, raise issues, or reach out if you'd like to work together!
 
 📬 LinkedIn → linkedin.com/in/farah-mughal
+
 💼 Fiverr   → fiverr.com/farahbatool05
+
 📧 Email    → farahbatool1511@gmail.com
