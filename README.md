@@ -25,8 +25,8 @@ JavaScript · TypeScript · Agile/Scrum · Git · CI/CD
 
 Feel free to explore each repo, raise issues, or reach out if you'd like to work together!
 
-📬 LinkedIn → linkedin.com/in/farah-mughal 
+📬 LinkedIn → https://www.linkedin.com/in/farah-mughal 
 
-💼 Fiverr   → fiverr.com/farahbatool05 
+💼 Fiverr   → https://www.fiverr.com/farahbatool05 
 
 📧 Email    → farahbatool1511@gmail.com 
