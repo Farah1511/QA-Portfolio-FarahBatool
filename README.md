@@ -1,4 +1,4 @@
-## 🚀 QA Portfolio by Farah Batool — Manual Testing, Playwright Automation (JS/TS), API Testing with Postman. 3+ years | UAE-based | Open to freelance.
+## 🚀 QA Portfolio by Farah Batool — Manual Testing, Playwright Automation (JS/TS), API Testing with Postman. 3+ years | UAE-based | Open to work.
 
 Hi, I'm Farah Batool, a Software QA Engineer with 3+ years of hands-on experience in manual testing, test automation, and API testing.
 
